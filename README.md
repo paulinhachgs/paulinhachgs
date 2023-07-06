@@ -5,8 +5,8 @@ estou muito animada com o que vem pela frente nesse mundo da tecnologia. ☕
 
 <div>
   
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=paulinhachgs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhachgs&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=paulinhachgs&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinhachgs&layout=compact&langs_count=16&theme=neon"/>
 </div>
 
   ##
